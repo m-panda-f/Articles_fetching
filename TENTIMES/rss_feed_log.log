@@ -1,0 +1,277 @@
+2024-10-09 20:13:11.669 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 20:13:12.832 | ERROR    | __main__:fetch_rss_feed:33 - Failed to fetch or parse feed http://rss.cnn.com/rss/cnn_topstories.rss: object has no attribute 'description'
+2024-10-09 20:13:12.834 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://qz.com/feed
+2024-10-09 20:13:14.284 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 20:13:14.943 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.reuters.com/reuters/businessNews
+2024-10-09 20:13:15.002 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 20:13:15.981 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 20:13:16.526 | INFO     | __main__:<module>:49 - Fetched 127 articles
+2024-10-09 20:13:16.528 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 20:13:17.768 | ERROR    | __main__:fetch_rss_feed:33 - Failed to fetch or parse feed http://rss.cnn.com/rss/cnn_topstories.rss: object has no attribute 'description'
+2024-10-09 20:13:17.769 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://qz.com/feed
+2024-10-09 20:13:20.158 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 20:13:24.122 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.reuters.com/reuters/businessNews
+2024-10-09 20:13:24.125 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 20:13:25.600 | INFO     | __main__:fetch_all_feeds:40 - Fetching feed from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 20:13:26.294 | INFO     | article_handl:insert_article:22 - Inserted article: Medicare wants to make these generic drugs available for $2 into category: Others
+2024-10-09 20:13:26.310 | INFO     | article_handl:insert_article:22 - Inserted article: An HBO documentary says Peter Todd is the Bitcoin creator known as Satoshi Nakamoto. He denies it into category: Others
+2024-10-09 20:13:26.357 | INFO     | article_handl:insert_article:22 - Inserted article: Nvidia's stock surge sent its market cap past Microsoft's and close to a record high into category: Others
+2024-10-09 20:13:26.387 | INFO     | article_handl:insert_article:22 - Inserted article: Disneyland is raising prices — again into category: Others
+2024-10-09 20:13:26.432 | INFO     | article_handl:insert_article:22 - Inserted article: GM swears it really will make money on electric cars soon into category: Others
+2024-10-09 20:13:26.466 | INFO     | article_handl:insert_article:22 - Inserted article: Bankrupt EV startup Fisker's legal troubles keep getting worse into category: Others
+2024-10-09 20:13:26.495 | INFO     | article_handl:insert_article:22 - Inserted article: The Boeing strike has no end in sight into category: Others
+2024-10-09 20:13:26.524 | INFO     | article_handl:insert_article:22 - Inserted article: Costco's conundrum: How to compete online without killing that 'treasure hunt' vibe into category: Others
+2024-10-09 20:13:26.544 | INFO     | article_handl:insert_article:22 - Inserted article: Mortgage rates are rising again into category: Others
+2024-10-09 20:13:26.572 | INFO     | article_handl:insert_article:22 - Inserted article: Google might get broken up after its big antitrust loss into category: Others
+2024-10-09 20:13:26.591 | INFO     | article_handl:insert_article:22 - Inserted article: The 10 most valuable private companies in the world into category: Others
+2024-10-09 20:13:26.617 | INFO     | article_handl:insert_article:22 - Inserted article: 15 cities with the most expensive fast food in America into category: Others
+2024-10-09 20:13:26.655 | INFO     | article_handl:insert_article:22 - Inserted article: Ozempic and prescription weight loss drugs: How they work, what they cost, side effects, and everything to know into category: Others
+2024-10-09 20:13:26.674 | INFO     | article_handl:insert_article:22 - Inserted article: Domino's brings back 'emergency pizza' promotion that drove sales into category: Others
+2024-10-09 20:13:26.708 | INFO     | article_handl:insert_article:22 - Inserted article: Americans are slowing down on their credit card spending — here’s why into category: Others
+2024-10-09 20:13:26.742 | INFO     | article_handl:insert_article:22 - Inserted article: Lyft rolls out new payment measures to gain more drivers into category: Others
+2024-10-09 20:13:26.760 | INFO     | article_handl:insert_article:22 - Inserted article: FAANG and data center stocks are a buy to cash in on AI's next phase, strategist says into category: Others
+2024-10-09 20:13:26.778 | INFO     | article_handl:insert_article:22 - Inserted article: Luxury car sales are tanking as drivers look for cheaper options into category: Others
+2024-10-09 20:13:26.816 | INFO     | article_handl:insert_article:22 - Inserted article: All the airports closing for Hurricane Milton into category: Others
+2024-10-09 20:13:26.836 | INFO     | article_handl:insert_article:22 - Inserted article: The next Nvidia? Data center stocks could be a goldmine, strategist says into category: Others
+2024-10-09 20:13:26.862 | INFO     | article_handl:insert_article:22 - Inserted article: Home Depot says corporate employees have to try working in actual stores into category: Others
+2024-10-09 20:13:26.892 | INFO     | article_handl:insert_article:22 - Inserted article: Look inside Clint Eastwood’s California home that just sold for more than $18 million into category: Others
+2024-10-09 20:13:26.916 | INFO     | article_handl:insert_article:22 - Inserted article: WeightWatchers is getting in on the off-brand weight loss drug game — and selling them cheap into category: Others
+2024-10-09 20:13:26.941 | INFO     | article_handl:insert_article:22 - Inserted article: A self-driving truck startup wants Waymo, Cruise, and others to follow its lead on safety into category: Others
+2024-10-09 20:13:26.959 | INFO     | article_handl:insert_article:22 - Inserted article: Kamala Harris wants Medicare to help cover in-home eldercare. Here's how she plans to pay for it into category: Others
+2024-10-09 20:13:26.979 | INFO     | article_handl:insert_article:22 - Inserted article: Two AI pioneers won the Nobel Prize for their work in machine learning into category: Others
+2024-10-09 20:13:27.015 | INFO     | article_handl:insert_article:22 - Inserted article: Toyota is delaying plans to make electric cars in America into category: Others
+2024-10-09 20:13:27.052 | INFO     | article_handl:insert_article:22 - Inserted article: Bitcoin creator Satoshi Nakamoto unmasked: Will HBO reveal who really made the cryptocurrency? into category: Others
+2024-10-09 20:13:27.073 | INFO     | article_handl:insert_article:22 - Inserted article: Even a grocery store is offering free streaming perks now into category: Others
+2024-10-09 20:13:27.100 | INFO     | article_handl:insert_article:22 - Inserted article: 10 cities where low mortgage rates have homeowners locked in 'golden handcuffs' into category: Others
+2024-10-09 20:13:27.142 | INFO     | article_handl:insert_article:22 - Inserted article: Tesla's big robotaxi event might not even have real cars into category: Others
+2024-10-09 20:13:27.161 | INFO     | article_handl:insert_article:22 - Inserted article: SpaceX says it could launch Starship soon if the FAA lets it into category: Others
+2024-10-09 20:13:27.180 | INFO     | article_handl:insert_article:22 - Inserted article: Uber will use ChatGPT to get more people to use EVs into category: Others
+2024-10-09 20:13:27.222 | INFO     | article_handl:insert_article:22 - Inserted article: Everything to know about Nvidia, from the stock to its AI chips into category: Others
+2024-10-09 20:13:27.243 | INFO     | article_handl:insert_article:22 - Inserted article: Why are the world's wealthiest families flocking to family offices? into category: Others
+2024-10-09 20:13:27.270 | INFO     | article_handl:insert_article:22 - Inserted article: The top 10 mental health apps to try on World Mental Health Day into category: Others
+2024-10-09 20:13:27.297 | INFO     | article_handl:insert_article:22 - Inserted article: Costco's gold bars are selling out fast into category: Others
+2024-10-09 20:13:27.319 | INFO     | article_handl:insert_article:22 - Inserted article: FTX shareholders could get $1 billion after crypto firm is cleared to fully repay customers into category: Others
+2024-10-09 20:13:27.344 | INFO     | article_handl:insert_article:22 - Inserted article: Christine McVie’s Fleetwood Mac scrapbook, Dianne Feinstein’s books, and an iconic Marilyn Monroe portrait: this week’s auction block roundup into category: Others
+2024-10-09 20:13:27.386 | INFO     | article_handl:insert_article:22 - Inserted article: McDonald's is suing Tyson Foods for allegedly choking the beef supply chain to raise prices into category: Others
+2024-10-09 20:13:27.409 | INFO     | article_handl:insert_article:22 - Inserted article: Donald Trump's plans would cut taxes on the richest 5% of America — and raise them for everyone else into category: Others
+2024-10-09 20:13:27.439 | INFO     | article_handl:insert_article:22 - Inserted article: Super Micro Computer stock surges 15% on big AI demand into category: Others
+2024-10-09 20:13:27.467 | INFO     | article_handl:insert_article:22 - Inserted article: A hot meal on a transatlantic JetBlue flight will now cost extra into category: Others
+2024-10-09 20:13:27.495 | INFO     | article_handl:insert_article:22 - Inserted article: EV chargers that feel more like a gas station are coming into category: Others
+2024-10-09 20:13:27.513 | INFO     | article_handl:insert_article:22 - Inserted article: Bankrupt EV startup Fisker left its abandoned headquarters in 'complete disarray' into category: Others
+2024-10-09 20:13:27.557 | INFO     | article_handl:insert_article:22 - Inserted article: A Frontier Airlines flight trailed flames as it landed into category: Others
+2024-10-09 20:13:27.586 | INFO     | article_handl:insert_article:22 - Inserted article: A classic Hamptons home, cliffside Beverly Hills bungalow and mansion-sized Manhattan townhouse: This week’s real estate roundup into category: Others
+2024-10-09 20:13:27.618 | INFO     | article_handl:insert_article:22 - Inserted article: Trump Media stock spikes 15% after Elon Musk came to a campaign rally into category: Others
+2024-10-09 20:13:27.652 | INFO     | article_handl:insert_article:22 - Inserted article: Panera Bread settled a Charged Lemonade lawsuit after a student's death into category: Others
+2024-10-09 20:13:27.666 | INFO     | article_handl:insert_article:22 - Inserted article: Swing state GOP chair slams Biden-Harris admin for being out of touch on key issue: 'Abandoned this country' into category: Others
+2024-10-09 20:13:27.680 | INFO     | article_handl:insert_article:22 - Inserted article: Election board in crucial swing state sued over dispute on who will monitor election results into category: Others
+2024-10-09 20:13:27.697 | INFO     | article_handl:insert_article:22 - Inserted article: As Gaza war drags past 1 year mark, hope fades for a deal to bring hostages home soon into category: Others
+2024-10-09 20:13:27.715 | INFO     | article_handl:insert_article:22 - Inserted article: 'Abandon Harris' group endorses Jill Stein over 'pro-genocide candidate' Kamala Harris into category: Others
+2024-10-09 20:13:27.738 | INFO     | article_handl:insert_article:22 - Inserted article: Conservatives dismiss Biden parole limits on 500K migrants: ‘Optics-driven smokescreen’ into category: Others
+2024-10-09 20:13:27.750 | INFO     | article_handl:insert_article:22 - Inserted article: Arizona begins in-person and absentee voting, here's what you need to know into category: Others
+2024-10-09 20:13:27.767 | INFO     | article_handl:insert_article:22 - Inserted article: Biden-Harris admin ‘taking advice from foreign governments’ on policing speech, lawmaker charges into category: Others
+2024-10-09 20:13:27.784 | INFO     | article_handl:insert_article:22 - Inserted article: Georgia Dems chair reveals message to undecided GOP voters as Harris works to build broad base into category: Others
+2024-10-09 20:13:27.801 | INFO     | article_handl:insert_article:22 - Inserted article: Trump-backed House candidate rips Biden's 'joke' border policy for inviting gang violence to swing state into category: Others
+2024-10-09 20:13:27.815 | INFO     | article_handl:insert_article:22 - Inserted article: From kissy-face sitdown on ‘The View’ to a tougher grilling on ‘60 Minutes,’ Kamala Harris is making news into category: Others
+2024-10-09 20:13:27.827 | INFO     | article_handl:insert_article:22 - Inserted article: Tim Walz calls for elimination of Electoral College at California fundraiser, says 'it needs to go' into category: Others
+2024-10-09 20:13:27.843 | INFO     | article_handl:insert_article:22 - Inserted article: Israel’s Minister of Defense cancels visit to Pentagon amid Middle East conflict escalation into category: Others
+2024-10-09 20:13:27.861 | INFO     | article_handl:insert_article:22 - Inserted article: US officials reveal fate of nabbed Tajikistan illegal immigrants with alleged ISIS ties into category: Others
+2024-10-09 20:13:27.878 | INFO     | article_handl:insert_article:22 - Inserted article: Fox News Politics: Harris on '60 minutes': Joe 2.0? into category: Others
+2024-10-09 20:13:27.899 | INFO     | article_handl:insert_article:22 - Inserted article: Biden undermines Harris claim that Ron DeSantis is politicizing hurricane response: 'Doing a great job' into category: Others
+2024-10-09 20:13:27.923 | INFO     | article_handl:insert_article:22 - Inserted article: Supreme Court signals support for Biden administration regulation of 'ghost gun' kits into category: Others
+2024-10-09 20:13:27.939 | INFO     | article_handl:insert_article:22 - Inserted article: Reporter's Notebook: With no government shutdown, it feels like Christmas in September into category: Others
+2024-10-09 20:13:27.956 | INFO     | article_handl:insert_article:22 - Inserted article: Prospects of a deal with Israel fade away as Saudis invite Iranian foreign minister to visit into category: Others
+2024-10-09 20:13:27.969 | INFO     | article_handl:insert_article:22 - Inserted article: Early voting means 'election season' has already begun into category: Others
+2024-10-09 20:13:27.984 | INFO     | article_handl:insert_article:22 - Inserted article: Overseas meth sent to US election building shuts down office for hours into category: Others
+2024-10-09 20:13:28.002 | INFO     | article_handl:insert_article:22 - Inserted article: Kamala Harris' tough words on Iran confounds critics into category: Others
+2024-10-09 20:13:28.021 | INFO     | article_handl:insert_article:22 - Inserted article: New poll shows Harris taking a slim lead over Trump thanks to support from a surprising group into category: Others
+2024-10-09 20:13:28.038 | INFO     | article_handl:insert_article:22 - Inserted article: North Carolina residents will see changes to early voting after Hurricane Helene into category: Others
+2024-10-09 20:13:28.053 | INFO     | article_handl:insert_article:22 - Inserted article: New poll reveals which voter group are fueling Trump to a narrow edge over Harris in battleground into category: Others
+2024-10-09 20:13:28.074 | INFO     | article_handl:insert_article:22 - Inserted article: Texas AG demands Biden-Harris admin help verify citizenship of nearly 500K registered voters into category: Others
+2024-10-09 20:13:28.106 | INFO     | article_handl:insert_article:22 - Inserted article: Xi Jinping celebrates China’s rising power — and his own into category: Others
+2024-10-09 20:13:28.129 | INFO     | article_handl:insert_article:22 - Inserted article: The battle for Mosul is over, but this hidden ISIS danger could lurk for years into category: Others
+2024-10-09 20:13:28.144 | INFO     | article_handl:insert_article:22 - Inserted article: As Rohingya refugees continue to flee from persecution, here’s how you can help into category: Others
+2024-10-09 20:13:28.162 | INFO     | article_handl:insert_article:22 - Inserted article: Tillerson: ‘Heartbreaking’ reports of suffering in Myanmar into category: Others
+2024-10-09 20:13:28.200 | INFO     | article_handl:insert_article:22 - Inserted article: Far-right groups gain ground in Sweden and Germany amid migrant influx into category: Others
+2024-10-09 20:13:28.214 | INFO     | article_handl:insert_article:22 - Inserted article: U.S.-backed Syrian forces recapture Raqqa from Islamic State group into category: Others
+2024-10-09 20:13:28.240 | INFO     | article_handl:insert_article:22 - Inserted article: WATCH: Trump and Greek prime minister hold joint news conference into category: Others
+2024-10-09 20:13:28.256 | INFO     | article_handl:insert_article:22 - Inserted article: U.S., Japan agree to maximize diplomatic pressure on North Korea into category: Others
+2024-10-09 20:13:28.284 | INFO     | article_handl:insert_article:22 - Inserted article: News Wrap: Dozens missing after deadly Mogadishu truck bombing into category: Others
+2024-10-09 20:13:28.306 | INFO     | article_handl:insert_article:22 - Inserted article: Why a power struggle has broken out over Kirkuk into category: Others
+2024-10-09 20:13:28.320 | INFO     | article_handl:insert_article:22 - Inserted article: Rex Tillerson says continue diplomacy with North Korea ‘until first bomb drops’ into category: Others
+2024-10-09 20:13:28.337 | INFO     | article_handl:insert_article:22 - Inserted article: Iraqi, Kurdish forces in standoff, weeks after Kurdish vote for independence into category: Others
+2024-10-09 20:13:28.360 | INFO     | article_handl:insert_article:22 - Inserted article: South Sudan civil war causes Africa’s worst refugee crisis into category: Others
+2024-10-09 20:13:28.375 | INFO     | article_handl:insert_article:22 - Inserted article: Hundreds dead after massive truck bomb strikes Mogadishu into category: Others
+2024-10-09 20:13:28.391 | INFO     | article_handl:insert_article:22 - Inserted article: Column: Why reporting from South Sudan is so difficult — and critically needed into category: Others
+2024-10-09 20:13:28.406 | INFO     | article_handl:insert_article:22 - Inserted article: Kashmir and Haryana prove India exit polls wrong into category: Others
+2024-10-09 20:13:28.422 | INFO     | article_handl:insert_article:22 - Inserted article: 'Our son died. Now we can use his sperm to have a grandchild' into category: Others
+2024-10-09 20:13:28.440 | INFO     | article_handl:insert_article:22 - Inserted article: Teen breaks record by climbing Earth's highest peaks into category: Others
+2024-10-09 20:13:28.456 | INFO     | article_handl:insert_article:22 - Inserted article: Indian financial aid opens 'new chapter' with Maldives into category: Others
+2024-10-09 20:13:28.481 | INFO     | article_handl:insert_article:22 - Inserted article: Why are there so many dropped catches at T20 World Cup? into category: Others
+2024-10-09 20:13:28.498 | INFO     | article_handl:insert_article:22 - Inserted article: Climbers rescued after three days in the Himalayas into category: Others
+2024-10-09 20:13:28.514 | INFO     | article_handl:insert_article:22 - Inserted article: India government says criminalising marital rape 'excessively harsh' into category: Others
+2024-10-09 20:13:28.528 | INFO     | article_handl:insert_article:22 - Inserted article: The Polish artist who painted Hindu gods in Indian palaces into category: Others
+2024-10-09 20:13:28.548 | INFO     | article_handl:insert_article:22 - Inserted article: How India became a Test cricket powerhouse into category: Others
+2024-10-09 20:13:28.560 | INFO     | article_handl:insert_article:22 - Inserted article: India's iconic tramcars set to ride into Kolkata sunset into category: Others
+2024-10-09 20:13:28.572 | INFO     | article_handl:insert_article:22 - Inserted article: My mission is to take Tamil music global, says Sid Sriram into category: Others
+2024-10-09 20:13:28.588 | INFO     | article_handl:insert_article:22 - Inserted article: India's top court saves a poor student's college dream into category: Others
+2024-10-09 20:13:28.607 | INFO     | article_handl:insert_article:22 - Inserted article: The 'mastermind' behind India's biggest jailbreak into category: Others
+2024-10-09 20:13:28.654 | INFO     | article_handl:insert_article:22 - Inserted article: The world’s diamond polishing capital feels Ukraine war impact into category: Others
+2024-10-09 20:13:28.677 | INFO     | article_handl:insert_article:22 - Inserted article: Sold out in minutes, resold for millions: Coldplay tickets spark outrage in India into category: Others
+2024-10-09 20:13:28.696 | INFO     | article_handl:insert_article:22 - Inserted article: A famed holy sweet in an unsavoury row in India into category: Others
+2024-10-09 20:13:28.712 | INFO     | article_handl:insert_article:22 - Inserted article: Your essential guide to the ICC Women's T20 World Cup into category: Others
+2024-10-09 20:13:28.729 | INFO     | article_handl:insert_article:22 - Inserted article: The Kashmiri politician whose return from jail ruffled feathers into category: Others
+2024-10-09 20:13:28.750 | INFO     | article_handl:insert_article:22 - Inserted article: Death of Indian employee sparks debate on 'toxic work culture' into category: Others
+2024-10-09 20:13:28.763 | INFO     | article_handl:insert_article:22 - Inserted article: Tigers and crocs make mangrove preservation tough work into category: Others
+2024-10-09 20:13:28.775 | INFO     | article_handl:insert_article:22 - Inserted article: How Punjabi megastar Diljit Dosanjh is inspiring the next gen into category: Others
+2024-10-09 20:13:28.791 | INFO     | article_handl:insert_article:22 - Inserted article: Hema committee report: Why are India's biggest film stars silent? into category: Others
+2024-10-09 20:13:28.807 | INFO     | article_handl:insert_article:22 - Inserted article: Volunteers dying as Russia’s war dead tops 70,000 into category: Others
+2024-10-09 20:13:28.821 | INFO     | article_handl:insert_article:22 - Inserted article: Why hundreds of Samsung workers are protesting in India into category: Others
+2024-10-09 20:13:28.836 | INFO     | article_handl:insert_article:22 - Inserted article: 'Please save me': The Indians duped into fighting for Russia into category: Others
+2024-10-09 20:13:28.852 | INFO     | article_handl:insert_article:22 - Inserted article: After a decade, Kashmir votes in historic elections into category: Others
+2024-10-09 20:13:28.884 | INFO     | article_handl:insert_article:22 - Inserted article: The German woman who helped build an Indian university into category: Others
+2024-10-09 20:13:28.900 | INFO     | article_handl:insert_article:22 - Inserted article: India's oldest trams may soon be brought to a halt into category: Others
+2024-10-09 20:13:28.915 | INFO     | article_handl:insert_article:22 - Inserted article: Kolkata night protest: 'Today I witnessed history' into category: Others
+2024-10-09 20:13:28.930 | INFO     | article_handl:insert_article:22 - Inserted article: Watch: Thousands of women protest about rape and murder of doctor in India into category: Others
+2024-10-09 20:13:28.945 | INFO     | article_handl:insert_article:22 - Inserted article: Watch: Building collapses into river in Himachal Pradesh into category: Others
+2024-10-09 20:13:28.967 | INFO     | article_handl:insert_article:22 - Inserted article: Watch: Blue screens, queues and airport delays worldwide into category: Others
+2024-10-09 20:13:28.982 | INFO     | article_handl:insert_article:22 - Inserted article: Lavish Ambani wedding divides opinions in India into category: Others
+2024-10-09 20:13:28.999 | INFO     | article_handl:insert_article:22 - Inserted article: Former PMs, film and sports stars join Ambani wedding into category: Others
+2024-10-09 20:13:29.014 | INFO     | article_handl:insert_article:22 - Inserted article: WATCH: Families mourn victims of deadly India crush into category: Others
+2024-10-09 20:13:29.028 | INFO     | article_handl:insert_article:22 - Inserted article: Watch: Delhi airport roof collapses due to heavy rain into category: Others
+2024-10-09 20:13:29.045 | INFO     | article_handl:insert_article:22 - Inserted article: What worked for India's Modi - and what didn’t? into category: Others
+2024-10-09 20:13:29.070 | INFO     | article_handl:insert_article:22 - Inserted article: Arrests, accusations and AI: India’s election unpacked into category: Others
+2024-10-09 20:48:40.350 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from http://rss.cnn.com/rss/cnn_topstories.rss
+2024-10-09 20:48:41.136 | ERROR    | __main__:fetch_rss_feed:35 - Failed to fetch or parse feed http://rss.cnn.com/rss/cnn_topstories.rss: object has no attribute 'description'
+2024-10-09 20:48:41.137 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from http://qz.com/feed
+2024-10-09 20:48:41.887 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from http://feeds.foxnews.com/foxnews/politics
+2024-10-09 20:48:43.597 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from http://feeds.reuters.com/reuters/businessNews
+2024-10-09 20:48:43.644 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from http://feeds.feedburner.com/NewshourWorld
+2024-10-09 20:48:44.674 | INFO     | __main__:fetch_all_feeds:42 - Fetching feed from https://feeds.bbci.co.uk/news/world/asia/india/rss.xml
+2024-10-09 20:48:45.517 | INFO     | __main__:<module>:65 - Fetched 127 articles
+2024-10-09 20:48:45.558 | INFO     | article_handl:insert_article:22 - Inserted article: Mountain Dew's rebrand has a nostalgic new look into category: Others
+2024-10-09 20:48:45.564 | INFO     | article_handl:insert_article:9 - Duplicate article found: Medicare wants to make these generic drugs available for hyst $2
+2024-10-09 20:48:45.594 | INFO     | article_handl:insert_article:22 - Inserted article: CVS and UnitedHealth want FTC Chair Lina Khan to recuse herself from a case over insulin prices into category: Others
+2024-10-09 20:48:45.597 | INFO     | article_handl:insert_article:9 - Duplicate article found: An HBO documentary says Peter Todd is the Bitcoin creator known as Satoshi Nakamoto. He denies it
+2024-10-09 20:48:45.599 | INFO     | article_handl:insert_article:9 - Duplicate article found: Nvidia's stock surge sent its market cap past Microsoft's and close to a record high
+2024-10-09 20:48:45.601 | INFO     | article_handl:insert_article:9 - Duplicate article found: Disneyland is raising prices — again
+2024-10-09 20:48:45.605 | INFO     | article_handl:insert_article:9 - Duplicate article found: GM swears it really will make money on electric cars soon
+2024-10-09 20:48:45.607 | INFO     | article_handl:insert_article:9 - Duplicate article found: Bankrupt EV startup Fisker's legal troubles keep getting worse
+2024-10-09 20:48:45.610 | INFO     | article_handl:insert_article:9 - Duplicate article found: The Boeing strike has no end in sight
+2024-10-09 20:48:45.613 | INFO     | article_handl:insert_article:9 - Duplicate article found: Costco's conundrum: How to compete online without killing that 'treasure hunt' vibe
+2024-10-09 20:48:45.617 | INFO     | article_handl:insert_article:9 - Duplicate article found: Mortgage rates are rising again
+2024-10-09 20:48:45.620 | INFO     | article_handl:insert_article:9 - Duplicate article found: Google might get broken up after its big antitrust loss
+2024-10-09 20:48:45.623 | INFO     | article_handl:insert_article:9 - Duplicate article found: The 10 most valuable private companies in the world
+2024-10-09 20:48:45.626 | INFO     | article_handl:insert_article:9 - Duplicate article found: 15 cities with the most expensive fast food in America
+2024-10-09 20:48:45.629 | INFO     | article_handl:insert_article:9 - Duplicate article found: Ozempic and prescription weight loss drugs: How they work, what they cost, side effects, and everything to know
+2024-10-09 20:48:45.631 | INFO     | article_handl:insert_article:9 - Duplicate article found: Domino's brings back 'emergency pizza' promotion that drove sales
+2024-10-09 20:48:45.633 | INFO     | article_handl:insert_article:9 - Duplicate article found: Americans are slowing down on their credit card spending — here’s why
+2024-10-09 20:48:45.635 | INFO     | article_handl:insert_article:9 - Duplicate article found: Lyft rolls out new payment measures to gain more drivers
+2024-10-09 20:48:45.638 | INFO     | article_handl:insert_article:9 - Duplicate article found: FAANG and data center stocks are a buy to cash in on AI's next phase, strategist says
+2024-10-09 20:48:45.641 | INFO     | article_handl:insert_article:9 - Duplicate article found: Luxury car sales are tanking as drivers look for cheaper options
+2024-10-09 20:48:45.645 | INFO     | article_handl:insert_article:9 - Duplicate article found: All the airports closing for Hurricane Milton
+2024-10-09 20:48:45.647 | INFO     | article_handl:insert_article:9 - Duplicate article found: The next Nvidia? Data center stocks could be a goldmine, strategist says
+2024-10-09 20:48:45.649 | INFO     | article_handl:insert_article:9 - Duplicate article found: Home Depot says corporate employees have to try working in actual stores
+2024-10-09 20:48:45.654 | INFO     | article_handl:insert_article:9 - Duplicate article found: Look inside Clint Eastwood’s California home that just sold for more than $18 million
+2024-10-09 20:48:45.657 | INFO     | article_handl:insert_article:9 - Duplicate article found: WeightWatchers is getting in on the off-brand weight loss drug game — and selling them cheap
+2024-10-09 20:48:45.659 | INFO     | article_handl:insert_article:9 - Duplicate article found: A self-driving truck startup wants Waymo, Cruise, and others to follow its lead on safety
+2024-10-09 20:48:45.662 | INFO     | article_handl:insert_article:9 - Duplicate article found: Kamala Harris wants Medicare to help cover in-home eldercare. Here's how she plans to pay for it
+2024-10-09 20:48:45.664 | INFO     | article_handl:insert_article:9 - Duplicate article found: Two AI pioneers won the Nobel Prize for their work in machine learning
+2024-10-09 20:48:45.666 | INFO     | article_handl:insert_article:9 - Duplicate article found: Toyota is delaying plans to make electric cars in America
+2024-10-09 20:48:45.670 | INFO     | article_handl:insert_article:9 - Duplicate article found: Bitcoin creator Satoshi Nakamoto unmasked: Will HBO reveal who really made the cryptocurrency?
+2024-10-09 20:48:45.672 | INFO     | article_handl:insert_article:9 - Duplicate article found: Even a grocery store is offering free streaming perks now
+2024-10-09 20:48:45.675 | INFO     | article_handl:insert_article:9 - Duplicate article found: 10 cities where low mortgage rates have homeowners locked in 'golden handcuffs'
+2024-10-09 20:48:45.679 | INFO     | article_handl:insert_article:9 - Duplicate article found: Tesla's big robotaxi event might not even have real cars
+2024-10-09 20:48:45.681 | INFO     | article_handl:insert_article:9 - Duplicate article found: SpaceX says it could launch Starship soon if the FAA lets it
+2024-10-09 20:48:45.683 | INFO     | article_handl:insert_article:9 - Duplicate article found: Uber will use ChatGPT to get more people to use EVs
+2024-10-09 20:48:45.688 | INFO     | article_handl:insert_article:9 - Duplicate article found: Everything to know about Nvidia, from the stock to its AI chips
+2024-10-09 20:48:45.690 | INFO     | article_handl:insert_article:9 - Duplicate article found: Why are the world's wealthiest families flocking to family offices?
+2024-10-09 20:48:45.695 | INFO     | article_handl:insert_article:9 - Duplicate article found: The top 10 mental health apps to try on World Mental Health Day
+2024-10-09 20:48:45.698 | INFO     | article_handl:insert_article:9 - Duplicate article found: Costco's gold bars are selling out fast
+2024-10-09 20:48:45.700 | INFO     | article_handl:insert_article:9 - Duplicate article found: FTX shareholders could get $1 billion after crypto firm is cleared to fully repay customers
+2024-10-09 20:48:45.703 | INFO     | article_handl:insert_article:9 - Duplicate article found: Christine McVie’s Fleetwood Mac scrapbook, Dianne Feinstein’s books, and an iconic Marilyn Monroe portrait: this week’s auction block roundup
+2024-10-09 20:48:45.706 | INFO     | article_handl:insert_article:9 - Duplicate article found: McDonald's is suing Tyson Foods for allegedly choking the beef supply chain to raise prices
+2024-10-09 20:48:45.709 | INFO     | article_handl:insert_article:9 - Duplicate article found: Donald Trump's plans would cut taxes on the richest 5% of America — and raise them for everyone else
+2024-10-09 20:48:45.713 | INFO     | article_handl:insert_article:9 - Duplicate article found: Super Micro Computer stock surges 15% on big AI demand
+2024-10-09 20:48:45.715 | INFO     | article_handl:insert_article:9 - Duplicate article found: A hot meal on a transatlantic JetBlue flight will now cost extra
+2024-10-09 20:48:45.716 | INFO     | article_handl:insert_article:9 - Duplicate article found: EV chargers that feel more like a gas station are coming
+2024-10-09 20:48:45.720 | INFO     | article_handl:insert_article:9 - Duplicate article found: Bankrupt EV startup Fisker left its abandoned headquarters in 'complete disarray'
+2024-10-09 20:48:45.723 | INFO     | article_handl:insert_article:9 - Duplicate article found: A Frontier Airlines flight trailed flames as it landed
+2024-10-09 20:48:45.725 | INFO     | article_handl:insert_article:9 - Duplicate article found: A classic Hamptons home, cliffside Beverly Hills bungalow and mansion-sized Manhattan townhouse: This week’s real estate roundup
+2024-10-09 20:48:45.744 | INFO     | article_handl:insert_article:22 - Inserted article: Virginia voter roll removal process violates federal law, groups allege — state fires back into category: Others
+2024-10-09 20:48:45.763 | INFO     | article_handl:insert_article:22 - Inserted article: Over 5,700 children in 5-year period had gender surgeries, most from 5 liberal states: watchdog into category: Others
+2024-10-09 20:48:45.766 | INFO     | article_handl:insert_article:9 - Duplicate article found: Swing state GOP chair slams Biden-Harris admin for being out of touch on key issue: 'Abandoned this country'
+2024-10-09 20:48:45.771 | INFO     | article_handl:insert_article:9 - Duplicate article found: Election board in crucial swing state sued over dispute on who will monitor election results
+2024-10-09 20:48:45.774 | INFO     | article_handl:insert_article:9 - Duplicate article found: As Gaza war drags past 1 year mark, hope fades for a deal to bring hostages home soon
+2024-10-09 20:48:45.779 | INFO     | article_handl:insert_article:9 - Duplicate article found: 'Abandon Harris' group endorses Jill Stein over 'pro-genocide candidate' Kamala Harris
+2024-10-09 20:48:45.781 | INFO     | article_handl:insert_article:9 - Duplicate article found: Conservatives dismiss Biden parole limits on 500K migrants: ‘Optics-driven smokescreen’
+2024-10-09 20:48:45.783 | INFO     | article_handl:insert_article:9 - Duplicate article found: Arizona begins in-person and absentee voting, here's what you need to know
+2024-10-09 20:48:45.788 | INFO     | article_handl:insert_article:9 - Duplicate article found: Biden-Harris admin ‘taking advice from foreign governments’ on policing speech, lawmaker charges
+2024-10-09 20:48:45.790 | INFO     | article_handl:insert_article:9 - Duplicate article found: Georgia Dems chair reveals message to undecided GOP voters as Harris works to build broad base
+2024-10-09 20:48:45.792 | INFO     | article_handl:insert_article:9 - Duplicate article found: Trump-backed House candidate rips Biden's 'joke' border policy for inviting gang violence to swing state
+2024-10-09 20:48:45.796 | INFO     | article_handl:insert_article:9 - Duplicate article found: From kissy-face sitdown on ‘The View’ to a tougher grilling on ‘60 Minutes,’ Kamala Harris is making news
+2024-10-09 20:48:45.799 | INFO     | article_handl:insert_article:9 - Duplicate article found: Tim Walz calls for elimination of Electoral College at California fundraiser, says 'it needs to go'
+2024-10-09 20:48:45.803 | INFO     | article_handl:insert_article:9 - Duplicate article found: Israel’s Minister of Defense cancels visit to Pentagon amid Middle East conflict escalation
+2024-10-09 20:48:45.810 | INFO     | article_handl:insert_article:9 - Duplicate article found: US officials reveal fate of nabbed Tajikistan illegal immigrants with alleged ISIS ties
+2024-10-09 20:48:45.812 | INFO     | article_handl:insert_article:9 - Duplicate article found: Fox News Politics: Harris on '60 minutes': Joe 2.0?
+2024-10-09 20:48:45.814 | INFO     | article_handl:insert_article:9 - Duplicate article found: Biden undermines Harris claim that Ron DeSantis is politicizing hurricane response: 'Doing a great job'
+2024-10-09 20:48:45.815 | INFO     | article_handl:insert_article:9 - Duplicate article found: Supreme Court signals support for Biden administration regulation of 'ghost gun' kits
+2024-10-09 20:48:45.820 | INFO     | article_handl:insert_article:9 - Duplicate article found: Reporter's Notebook: With no government shutdown, it feels like Christmas in September
+2024-10-09 20:48:45.823 | INFO     | article_handl:insert_article:9 - Duplicate article found: Prospects of a deal with Israel fade away as Saudis invite Iranian foreign minister to visit
+2024-10-09 20:48:45.825 | INFO     | article_handl:insert_article:9 - Duplicate article found: Early voting means 'election season' has already begun
+2024-10-09 20:48:45.828 | INFO     | article_handl:insert_article:9 - Duplicate article found: Overseas meth sent to US election building shuts down office for hours
+2024-10-09 20:48:45.831 | INFO     | article_handl:insert_article:9 - Duplicate article found: Kamala Harris' tough words on Iran confounds critics
+2024-10-09 20:48:45.832 | INFO     | article_handl:insert_article:9 - Duplicate article found: New poll shows Harris taking a slim lead over Trump thanks to support from a surprising group
+2024-10-09 20:48:45.836 | INFO     | article_handl:insert_article:9 - Duplicate article found: North Carolina residents will see changes to early voting after Hurricane Helene
+2024-10-09 20:48:45.838 | INFO     | article_handl:insert_article:9 - Duplicate article found: Xi Jinping celebrates China’s rising power — and his own
+2024-10-09 20:48:45.841 | INFO     | article_handl:insert_article:9 - Duplicate article found: The battle for Mosul is over, but this hidden ISIS danger could lurk for years
+2024-10-09 20:48:45.845 | INFO     | article_handl:insert_article:9 - Duplicate article found: As Rohingya refugees continue to flee from persecution, here’s how you can help
+2024-10-09 20:48:45.847 | INFO     | article_handl:insert_article:9 - Duplicate article found: Tillerson: ‘Heartbreaking’ reports of suffering in Myanmar
+2024-10-09 20:48:45.849 | INFO     | article_handl:insert_article:9 - Duplicate article found: Far-right groups gain ground in Sweden and Germany amid migrant influx
+2024-10-09 20:48:45.854 | INFO     | article_handl:insert_article:9 - Duplicate article found: U.S.-backed Syrian forces recapture Raqqa from Islamic State group
+2024-10-09 20:48:45.855 | INFO     | article_handl:insert_article:9 - Duplicate article found: WATCH: Trump and Greek prime minister hold joint news conference
+2024-10-09 20:48:45.857 | INFO     | article_handl:insert_article:9 - Duplicate article found: U.S., Japan agree to maximize diplomatic pressure on North Korea
+2024-10-09 20:48:45.861 | INFO     | article_handl:insert_article:9 - Duplicate article found: News Wrap: Dozens missing after deadly Mogadishu truck bombing
+2024-10-09 20:48:45.863 | INFO     | article_handl:insert_article:9 - Duplicate article found: Why a power struggle has broken out over Kirkuk
+2024-10-09 20:48:45.865 | INFO     | article_handl:insert_article:9 - Duplicate article found: Rex Tillerson says continue diplomacy with North Korea ‘until first bomb drops’
+2024-10-09 20:48:45.869 | INFO     | article_handl:insert_article:9 - Duplicate article found: Iraqi, Kurdish forces in standoff, weeks after Kurdish vote for independence
+2024-10-09 20:48:45.872 | INFO     | article_handl:insert_article:9 - Duplicate article found: South Sudan civil war causes Africa’s worst refugee crisis
+2024-10-09 20:48:45.873 | INFO     | article_handl:insert_article:9 - Duplicate article found: Hundreds dead after massive truck bomb strikes Mogadishu
+2024-10-09 20:48:45.876 | INFO     | article_handl:insert_article:9 - Duplicate article found: Column: Why reporting from South Sudan is so difficult — and critically needed
+2024-10-09 20:48:45.880 | INFO     | article_handl:insert_article:9 - Duplicate article found: Kashmir and Haryana prove India exit polls wrong
+2024-10-09 20:48:45.882 | INFO     | article_handl:insert_article:9 - Duplicate article found: 'Our son died. Now we can use his sperm to have a grandchild'
+2024-10-09 20:48:45.886 | INFO     | article_handl:insert_article:9 - Duplicate article found: Teen breaks record by climbing Earth's highest peaks
+2024-10-09 20:48:45.889 | INFO     | article_handl:insert_article:9 - Duplicate article found: Indian financial aid opens 'new chapter' with Maldives
+2024-10-09 20:48:45.890 | INFO     | article_handl:insert_article:9 - Duplicate article found: Why are there so many dropped catches at T20 World Cup?
+2024-10-09 20:48:45.894 | INFO     | article_handl:insert_article:9 - Duplicate article found: Climbers rescued after three days in the Himalayas
+2024-10-09 20:48:45.897 | INFO     | article_handl:insert_article:9 - Duplicate article found: India government says criminalising marital rape 'excessively harsh'
+2024-10-09 20:48:45.900 | INFO     | article_handl:insert_article:9 - Duplicate article found: The Polish artist who painted Hindu gods in Indian palaces
+2024-10-09 20:48:45.903 | INFO     | article_handl:insert_article:9 - Duplicate article found: How India became a Test cricket powerhouse
+2024-10-09 20:48:45.905 | INFO     | article_handl:insert_article:9 - Duplicate article found: India's iconic tramcars set to ride into Kolkata sunset
+2024-10-09 20:48:45.906 | INFO     | article_handl:insert_article:9 - Duplicate article found: My mission is to take Tamil music global, says Sid Sriram
+2024-10-09 20:48:45.908 | INFO     | article_handl:insert_article:9 - Duplicate article found: India's top court saves a poor student's college dream
+2024-10-09 20:48:45.911 | INFO     | article_handl:insert_article:9 - Duplicate article found: The 'mastermind' behind India's biggest jailbreak
+2024-10-09 20:48:45.914 | INFO     | article_handl:insert_article:9 - Duplicate article found: The world’s diamond polishing capital feels Ukraine war impact
+2024-10-09 20:48:45.915 | INFO     | article_handl:insert_article:9 - Duplicate article found: Sold out in minutes, resold for millions: Coldplay tickets spark outrage in India
+2024-10-09 20:48:45.919 | INFO     | article_handl:insert_article:9 - Duplicate article found: A famed holy sweet in an unsavoury row in India
+2024-10-09 20:48:45.921 | INFO     | article_handl:insert_article:9 - Duplicate article found: Your essential guide to the ICC Women's T20 World Cup
+2024-10-09 20:48:45.923 | INFO     | article_handl:insert_article:9 - Duplicate article found: The Kashmiri politician whose return from jail ruffled feathers
+2024-10-09 20:48:45.925 | INFO     | article_handl:insert_article:9 - Duplicate article found: Death of Indian employee sparks debate on 'toxic work culture'
+2024-10-09 20:48:45.929 | INFO     | article_handl:insert_article:9 - Duplicate article found: Tigers and crocs make mangrove preservation tough work
+2024-10-09 20:48:45.931 | INFO     | article_handl:insert_article:9 - Duplicate article found: How Punjabi megastar Diljit Dosanjh is inspiring the next gen
+2024-10-09 20:48:45.933 | INFO     | article_handl:insert_article:9 - Duplicate article found: Hema committee report: Why are India's biggest film stars silent?
+2024-10-09 20:48:45.936 | INFO     | article_handl:insert_article:9 - Duplicate article found: Volunteers dying as Russia’s war dead tops 70,000
+2024-10-09 20:48:45.939 | INFO     | article_handl:insert_article:9 - Duplicate article found: Why hundreds of Samsung workers are protesting in India
+2024-10-09 20:48:45.941 | INFO     | article_handl:insert_article:9 - Duplicate article found: 'Please save me': The Indians duped into fighting for Russia
+2024-10-09 20:48:45.945 | INFO     | article_handl:insert_article:9 - Duplicate article found: After a decade, Kashmir votes in historic elections
+2024-10-09 20:48:45.947 | INFO     | article_handl:insert_article:9 - Duplicate article found: The German woman who helped build an Indian university
+2024-10-09 20:48:45.949 | INFO     | article_handl:insert_article:9 - Duplicate article found: India's oldest trams may soon be brought to a halt
+2024-10-09 20:48:45.952 | INFO     | article_handl:insert_article:9 - Duplicate article found: Kolkata night protest: 'Today I witnessed history'
+2024-10-09 20:48:45.956 | INFO     | article_handl:insert_article:9 - Duplicate article found: Watch: Thousands of women protest about rape and murder of doctor in India
+2024-10-09 20:48:45.961 | INFO     | article_handl:insert_article:9 - Duplicate article found: Watch: Building collapses into river in Himachal Pradesh
+2024-10-09 20:48:45.964 | INFO     | article_handl:insert_article:9 - Duplicate article found: Watch: Blue screens, queues and airport delays worldwide
+2024-10-09 20:48:45.968 | INFO     | article_handl:insert_article:9 - Duplicate article found: Lavish Ambani wedding divides opinions in India
+2024-10-09 20:48:45.972 | INFO     | article_handl:insert_article:9 - Duplicate article found: Former PMs, film and sports stars join Ambani wedding
+2024-10-09 20:48:45.974 | INFO     | article_handl:insert_article:9 - Duplicate article found: WATCH: Families mourn victims of deadly India crush
+2024-10-09 20:48:45.978 | INFO     | article_handl:insert_article:9 - Duplicate article found: Watch: Delhi airport roof collapses due to heavy rain
+2024-10-09 20:48:45.981 | INFO     | article_handl:insert_article:9 - Duplicate article found: What worked for India's Modi - and what didn’t?
+2024-10-09 20:48:45.983 | INFO     | article_handl:insert_article:9 - Duplicate article found: Arrests, accusations and AI: India’s election unpacked
